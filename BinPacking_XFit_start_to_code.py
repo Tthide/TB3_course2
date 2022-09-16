@@ -23,7 +23,7 @@ def import_config(nom_fichier):
     fichier.close()
     return (n, c, weight)
 
-
+########J'ai rajouté ce commentaire
 ############################################################## NextFit
 def nextfit(weight, c):
     if (len(weight)==0):
