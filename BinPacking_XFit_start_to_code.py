@@ -24,6 +24,8 @@ def import_config(nom_fichier):
     return (n, c, weight)
 
 ########J'ai rajouté ce commentaire
+#####################J'ai rajouté ce commentaire après pour créer une branche
+
 ############################################################## NextFit
 def nextfit(weight, c):
     if (len(weight)==0):
