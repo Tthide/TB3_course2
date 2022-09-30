@@ -10,6 +10,8 @@ import numpy as np
 from matplotlib import pyplot as plt
 import progressbar
 
+
+
 def import_config(nom_fichier):
     fichier = open(nom_fichier, "r")
     l = fichier.readline()
@@ -25,6 +27,7 @@ def import_config(nom_fichier):
 
 ########J'ai rajouté ce commentaire
 #####################J'ai rajouté ce commentaire après pour créer une branche
+######encore une fois
 
 ############################################################## NextFit
 def nextfit(weight, c):
