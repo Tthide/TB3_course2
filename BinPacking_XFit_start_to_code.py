@@ -27,7 +27,8 @@ def import_config(nom_fichier):
 
 ########J'ai rajouté ce commentaire
 #####################J'ai rajouté ce commentaire après pour créer une branche
-######encore une fois
+######encore une fois tjrs plus
+
 
 ############################################################## NextFit
 def nextfit(weight, c):
